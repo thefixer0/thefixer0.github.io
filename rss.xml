@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>thefixer0</title>
+ <description>Fixes to your problems</description>
+ <link>http://thefixer0.github.io</link>
+ <lastBuildDate>Thu, 05 Nov 2015 11:28:55 -0700</lastBuildDate>
+  <item>
+				  <title>Hello, World! or How to use Comanche</title>
+				  <link>http://thefixer0.github.io/how-to-use-comanche</link>
+				  <pubDate>2015-07-02</pubDate>
+				 </item> 
+</channel>
+</rss>
